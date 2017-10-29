@@ -1,0 +1,9 @@
+..  rubric:: Knihy
+
+..  bibliography:: refs1.bib
+    :all:
+
+..  rubric:: Internetové odkazy
+
+..  bibliography:: refs2.bib
+    :all:

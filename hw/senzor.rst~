@@ -1,0 +1,20 @@
+..  _kap-senzor: 
+
+*******************
+Senzor
+*******************
+
+.. |_| unicode:: 0xA0
+   :trim:
+
+Senzor :index:`HC-SR04` je ultrazvukový senzor určený k měření vzdálenosti. Senzor vyvolá vysokofrekvenční zvukové vlny a zachytává jejich odraz. Z časového intervalu mezi vyvoláním a |_| přijmutím vln se za pomocí vzorce se vypočítá vzdálenost. 
+
+..  math:: s = \frac{t}{58}
+
+Ve výše uvedeném vzorci je `s` měřená vzdálenost a `t` doba odezvy na vyslaný ultrazvukový signál. Senzor HC-SR04 dokáže změřit vzdálenost od 3cm do 400cm. Senzor vysílá ultrazvukové vlny o frekvenci 40Hz s rozptylem 15°. Senzor je napájen 5V a jeho odběr je 15mA. Příklad ovládání senzoru je popsán v :cite:`Arduinousenzor`.
+
+..  figure:: ../obrazky/senzor.JPG
+    :width: 50%
+    
+    HC-SR04 
+

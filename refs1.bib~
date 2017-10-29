@@ -1,0 +1,53 @@
+@Book{2014:voda,
+  author = {Zbyšek Voda},
+  title = {Průvodce světem Arduina},
+  publisher = {HW Kitchen},
+  year = {2014}
+}
+
+@Book{1989:brodsko,
+  author = {Jan Brodský, Luděk Skočovský,},
+  title = {Operační systém Unix a jazyk C},
+  publisher = {SNTL, Praha},
+  year = {1989}
+}
+
+@Book{1988:stary,
+  author = {Jaroslav Starý},
+  title = {Mikropočítač a jeho programování},
+  publisher = {SNTL, Praha},
+  year = {1988}
+}
+
+@Book{2006:kernritch,
+  author = {Brian W. Kernighan, Dennis M. Ritchie,},
+  title = {Programovací jazyk C},
+  publisher = {Computer press},
+  year = {2006}
+}
+
+@Book{1999:rybicka,
+  author = {Jiří Rybička},
+  title = {LATEX pro začátečníky},
+  publisher = {Konvoj Brno},
+  year = {1999}
+}
+
+@Book{1985:creedy,
+  author = {A. P. Creedy},
+  title = {Skid Steering of wheeled and tracked vehicles - analysis with coulomb friction assumptions},
+  publisher = {Maribyrnong Victoria},
+  year = {1985}
+}
+
+@Article{2014:ren,
+    author  = {Feng Ren, Xin hui Liu, Jin shi Chen,},
+    title   = {{A}nalysis of {S}kid {S}teer {L}oader {S}teering {C}haracteristic},
+    year    = {2014},
+    journal = {Advances in Mechanical Engineering},
+    number  = {245713}
+}
+
+
+
+

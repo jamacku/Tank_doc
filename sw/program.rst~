@@ -1,0 +1,16 @@
+*******************
+Program
+*******************
+
+Program autonomního pásového vozidla je psán modifikovaným programovacím jazykem C pro Arduino. Celý program by se dal rozdělit do několika důležitých částí. Těmto částem se budu věnovat níže.
+
+.. toctree::
+   :numbered:
+   :maxdepth: 3
+
+   prog/multitask
+   prog/preruseni
+   prog/mereni
+   prog/inteligence
+   prog/regulace
+
